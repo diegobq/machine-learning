@@ -37,7 +37,7 @@ Go to examples folder and run the example you want to test
 Run the decision-treee.py file. See the result in the console and open the decisiontree.pdf to see the classifier.
 
 ```
-python examples/decision-tree/decision-tree.py 
+python examples/decision-tree.py 
 ```
 
 ### Ejemplo - Support Vector Machine Classifier
@@ -45,7 +45,7 @@ python examples/decision-tree/decision-tree.py
 Run the svc.py file. Open an image with the expected and the predicted value.
 
 ```
-python examples/decision-tree/decision-tree.py 
+python examples/svc.py
 ```
 
 ## Links
