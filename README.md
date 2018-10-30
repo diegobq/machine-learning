@@ -32,9 +32,17 @@ conda install python-graphviz
 
 Go to examples folder and run the example you want to test
 
-### Ejemplo - Decision Tree 
+### Ejemplo - Decision Tree Classifier
 
 Run the decision-treee.py file. See the result in the console and open the decisiontree.pdf to see the classifier.
+
+```
+python examples/decision-tree/decision-tree.py 
+```
+
+### Ejemplo - Support Vector Machine Classifier
+
+Run the svc.py file. Open an image with the expected and the predicted value.
 
 ```
 python examples/decision-tree/decision-tree.py 
