@@ -40,6 +40,14 @@ Run the decision-treee.py file. See the result in the console and open the decis
 python examples/decision-tree.py 
 ```
 
+### Ejemplo - Metrics: Train and Test
+
+Run the metrics.py  file. Train classifier using the half of data and then use the second half to validate the accuracy.
+
+```
+python examples/metrics.py 
+```
+
 ### Ejemplo - Support Vector Machine Classifier
 
 Run the svc.py file. Open an image with the expected and the predicted value.
