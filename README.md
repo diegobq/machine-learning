@@ -56,6 +56,21 @@ Run the svc.py file. Open an image with the expected and the predicted value.
 python examples/svc.py
 ```
 
+### Ejemplo - K  Classifier
+
+#### Install the node modules
+
+```
+cd tensorflowjs/
+yarn
+```
+
+#### Run application
+
+```
+yarn serve
+```
+
 ## Links
 
 * [Anaconda](https://www.anaconda.com/) - The Most Popular Python Data Science Platform

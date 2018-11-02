@@ -38,7 +38,10 @@ features = digits.images.reshape((n_samples, -1))
 # establecemos los labels para cada conjunto de features.-
 labels = digits.target
 
+# con este indice falla
 indexToPredict = 5
+# con este indice funciona
+# indexToPredict = 10
 
 # creamos el classifier -> support vector machine.-
 clf = svm.SVC(gamma=0.001)
